@@ -62,13 +62,13 @@ export const SearchPage = () => {
           <div className="alert alert-danger">
             No hero with <b>{q}</b>
           </div>
-          {
+          {/* {
             
             heroes.map(hero=>{ 
               return <HeroCard key={hero.id} {...hero}/>
             })
 
-          }
+          } */}
 
 
           
